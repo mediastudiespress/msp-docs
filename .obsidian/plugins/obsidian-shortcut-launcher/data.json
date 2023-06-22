@@ -1,0 +1,12 @@
+{
+  "launchers": [
+    {
+      "commandName": "Commit msp-docs",
+      "shortcutName": "Commit msp-docs",
+      "inputTypes": [
+        "Selected Text"
+      ],
+      "separator": ","
+    }
+  ]
+}

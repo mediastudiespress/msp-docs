@@ -1,0 +1,12 @@
+{
+  "launchers": [
+    {
+      "commandName": "Pull Working Copy",
+      "shortcutName": "Pull Changes From Remote Obsidian Vault",
+      "inputTypes": [
+        "Selected Text"
+      ],
+      "separator": ","
+    }
+  ]
+}
