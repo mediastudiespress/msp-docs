@@ -1,3 +1,9 @@
+---
+tags: finance
+date created: 2023-07-06
+date modified: 2023-07-06
+---
+
 # Finance Report - March 2023
 
 ## Balance
@@ -39,5 +45,6 @@
 * *2023-03-29* - Kindle Direct Publishing ($17.48) [book sales]
 * *2023-03-29* - Kindle Direct Publishing ($21.76) [book sales]
 
+***
 
-
+## Back to [[finances]]

@@ -1,5 +1,5 @@
 ---
-tags: 
+tags: finance
 date created: 2023-07-06
 date modified: 2023-07-06
 ---
@@ -38,3 +38,7 @@ date modified: 2023-07-06
 
 * *2023-02-05* - Kindle Direct Publishing ($5.44) [book sales]
 * *2023-02-18* - Individual donor ($23.59) [individual donation]
+
+***
+
+## Back to [[finances]]

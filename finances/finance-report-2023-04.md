@@ -1,3 +1,9 @@
+---
+tags: finance
+date created: 2023-07-06
+date modified: 2023-07-06
+---
+
 # Finance Report - April 2023
 
 ## Balance
@@ -36,5 +42,6 @@
 * *2023-04-24* - Open Book Collective ($330.83) [collective funding (OBC)]
 * *2023-04-25* - Open Book Collective ($324.24) [collective funding (OBC)]
 
+***
 
-
+## Back to [[finances]]

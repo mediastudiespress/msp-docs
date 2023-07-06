@@ -1,2 +1,7 @@
+# mediastudies.press Finance Reports - 2023
 
-[[finance-report-2023-01]]
+
+```dataview  
+list from #finance
+sort file.name DESC 
+```

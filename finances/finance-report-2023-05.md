@@ -52,5 +52,6 @@ tags: finance
 * *2023-05-31* - Open Book Collective ($105.00) [collective funding (OBC)]
 * *2023-05-31* - Open Book Collective ($989.03) [collective funding (OBC)]
 
+***
 
-
+## Back to [[finances]]
