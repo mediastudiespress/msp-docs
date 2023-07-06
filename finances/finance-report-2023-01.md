@@ -14,8 +14,8 @@
 
 ### mediastudies.press
 
-* *2023-01-01* - CoWork 414 ($10.00) [ -> ]
-* *2023-01-01* - DigitalOcean ($1.06) [ -> ]
+* *2023-01-01* - CoWork 414 ($10.00) [Rent or Lease -> Office Space]
+* *2023-01-01* - DigitalOcean ($1.06) [Other Expenses -> Online Services]
 * *2023-01-07* - Adobe ($31.79) [Other Expenses -> Software]
 * *2023-01-08* - KDP ($25.15) [Other Expenses -> Author copies]
 

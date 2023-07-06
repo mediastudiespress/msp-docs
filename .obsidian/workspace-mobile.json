@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-docs/landing.md",
-                "mode": "source",
+                "file": "finances/finance-report-2023-01.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -99,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs-docs/landing.md",
+            "file": "finances/finance-report-2023-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs-docs/landing.md",
+            "file": "finances/finance-report-2023-01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -128,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs-docs/landing.md"
+            "file": "finances/finance-report-2023-01.md"
           }
         }
       }
@@ -149,11 +149,11 @@
   "active": "b3cbde957c66958f",
   "lastOpenFiles": [
     "finances/finances.md",
-    "docs-docs/landing.md",
     "finances/finance-report-2023-01.md",
-    "finances/finance-report-2022-12.md",
-    "finances/# Finance Report - December 2022.txt",
     "finances/finance-report-2023-06.md",
+    "finances/finance-report-2022-12.md",
+    "docs-docs/landing.md",
+    "finances/# Finance Report - December 2022.txt",
     "finances/# Finance Report - June 2023.txt",
     "books/public-domain/franklin-ford-collection-process.md",
     "books/public-domain/franklin-ford-collection.md",
