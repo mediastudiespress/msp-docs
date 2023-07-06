@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finances/finance-report-2023-01.md",
+                "file": "finances/finance-report-2023-02.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "finances/finance-report-2023-01.md",
+            "file": "finances/finance-report-2023-02.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "finances/finance-report-2023-01.md",
+            "file": "finances/finance-report-2023-02.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "finances/finance-report-2023-01.md"
+            "file": "finances/finance-report-2023-02.md"
           }
         }
       }
@@ -135,14 +135,14 @@
   },
   "active": "5e7d9de591170282",
   "lastOpenFiles": [
-    "finances/finance-report-2023-04.md",
     "finances/finance-report-2023-05.md",
+    "finances/finance-report-2023-01.md",
+    "finances/finance-report-2023-04.md",
     "finances/# Finance Report - May 2023.txt",
     "finances/finance-report-2023-06.md",
     "finances/finance-report-2023-03.md",
     "docs-docs/landing.md",
     "finances/finance-report-2023-02.md",
-    "finances/finance-report-2023-01.md",
     "finances/finances.md",
     "finances/finance-report-2022-12.md",
     "finances/# Finance Report - December 2022.txt",

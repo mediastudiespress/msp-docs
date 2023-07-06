@@ -1,3 +1,9 @@
+---
+tags: finance
+date created: 2023-07-06
+date modified: 2023-07-06
+---
+
 # Finance Report - January 2023
 
 ## Balance
@@ -19,7 +25,7 @@
 * *2023-01-07* - Adobe ($31.79) [Other Expenses -> Software]
 * *2023-01-08* - KDP ($25.15) [Other Expenses -> Author copies]
 
-### *History of Media Studies*
+### *History Of Media Studies*
 
 * *2023-01-02* - David W. Park ($25.01) [Other Expenses -> Other Expenses (general)]
 * *2023-01-13* - Reclaim Cloud ($25.00) [Other Expenses -> Online Services]
@@ -36,6 +42,3 @@
 
 * *2023-01-03* - University of Colorado, Boulder ($2,000.00) [grants]
 * *2023-01-18* - Individual donor ($23.59) [individual donation]
-
-
-

@@ -1,3 +1,9 @@
+---
+tags: 
+date created: 2023-07-06
+date modified: 2023-07-06
+---
+
 # Finance Report - February 2023
 
 ## Balance
@@ -18,7 +24,7 @@
 * *2023-02-05* - Adobe ($31.79) [Other Expenses -> Software]
 * *2023-02-07* - Knowledge Futures Group ($1,150.00) [Other Expenses -> Subscriptions/Dues/Memberships]
 
-### *History of Media Studies*
+### *History Of Media Studies*
 
 * *2023-02-24* - AirTable ($25.44) [Other Expenses -> Software]
 
@@ -32,6 +38,3 @@
 
 * *2023-02-05* - Kindle Direct Publishing ($5.44) [book sales]
 * *2023-02-18* - Individual donor ($23.59) [individual donation]
-
-
-
