@@ -1,5 +1,7 @@
 ---
 tags: finance
+date created: 2023-07-06
+date modified: 2023-07-06
 ---
 
 # Finance Report - June 2023
@@ -23,7 +25,7 @@ tags: finance
 * *2023-06-13* - KDP ($20.10) [Other Expenses -> Author copies]
 * *2023-06-14* - Obsidian ($10.50) [Other Expenses -> Online Services]
 
-### *History of Media Studies*
+### *History Of Media Studies*
 
 * *2023-06-24* - AirTable ($25.42) [Other Expenses -> Software]
 * *2023-06-27* - Copy editor ($1,489.43) [Professional Services -> Proofing & Copyediting]
@@ -32,7 +34,7 @@ tags: finance
 
 ## Income
 
-**Total:** $1686.5199999999998
+**Total:** $1,686.52
 
 ### mediastudies.press
 

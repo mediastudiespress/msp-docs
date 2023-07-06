@@ -32,7 +32,7 @@ tags: finance
 * *2023-05-15* - Cloudflare ($10.11) [Other Expenses -> Online Services]
 * *2023-05-20* - Reclaim Cloud ($25.00) [Other Expenses -> Online Services]
 * *2023-05-24* - AirTable ($25.44) [Other Expenses -> Software]
-* *2023-05-31* - Ruth Deller ($63.01) [Professional Services -> Reviewing]
+* *2023-05-31* - Reviewer ($63.01) [Professional Services -> Reviewing]
 
 ****
 

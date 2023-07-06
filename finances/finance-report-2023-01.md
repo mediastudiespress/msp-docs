@@ -27,7 +27,7 @@ date modified: 2023-07-06
 
 ### *History Of Media Studies*
 
-* *2023-01-02* - David W. Park ($25.01) [Other Expenses -> Other Expenses (general)]
+* *2023-01-02* - Reimbursement ($25.01) [Other Expenses -> Other Expenses (general)]
 * *2023-01-13* - Reclaim Cloud ($25.00) [Other Expenses -> Online Services]
 * *2023-01-17* - Crossref ($275.00) [Other Expenses -> Subscriptions/Dues/Memberships]
 * *2023-01-24* - AirTable ($24.00) [Other Expenses -> Software]
