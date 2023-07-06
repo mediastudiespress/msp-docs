@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-docs/landing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3cbde957c66958f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "finances/finance-report-2023-01.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,13 +133,18 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "b3cbde957c66958f",
+  "active": "5e7d9de591170282",
   "lastOpenFiles": [
-    "finances/finances.md",
-    "finances/finance-report-2023-01.md",
+    "finances/finance-report-2023-04.md",
+    "finances/finance-report-2023-05.md",
+    "finances/# Finance Report - May 2023.txt",
     "finances/finance-report-2023-06.md",
-    "finances/finance-report-2022-12.md",
+    "finances/finance-report-2023-03.md",
     "docs-docs/landing.md",
+    "finances/finance-report-2023-02.md",
+    "finances/finance-report-2023-01.md",
+    "finances/finances.md",
+    "finances/finance-report-2022-12.md",
     "finances/# Finance Report - December 2022.txt",
     "finances/# Finance Report - June 2023.txt",
     "books/public-domain/franklin-ford-collection-process.md",
