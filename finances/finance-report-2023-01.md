@@ -43,7 +43,6 @@ date modified: 2023-07-06
 * *2023-01-03* - University of Colorado, Boulder ($2,000.00) [grants]
 * *2023-01-18* - Individual donor ($23.59) [individual donation]
 
-
 ***
 
 ## Back to [[finances]]
