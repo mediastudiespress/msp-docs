@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs-docs/landing.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "bfbcb0f778004e16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "books/public-domain/franklin-ford-collection-process.md",
-                "mode": "source",
+                "file": "finances/finance-report-2023-01.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "books/public-domain/franklin-ford-collection-process.md",
+            "file": "finances/finance-report-2023-01.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "books/public-domain/franklin-ford-collection-process.md",
+            "file": "finances/finance-report-2023-01.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "books/public-domain/franklin-ford-collection-process.md"
+            "file": "finances/finance-report-2023-01.md"
           }
         }
       }
@@ -145,11 +132,16 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bfbcb0f778004e16",
+  "active": "5e7d9de591170282",
   "lastOpenFiles": [
-    "books/public-domain/franklin-ford-collection.md",
-    "books/public-domain/franklin-ford-collection-process.md",
+    "finances/finance-report-2022-12.md",
+    "finances/finance-report-2023-01.md",
     "docs-docs/landing.md",
+    "finances/# Finance Report - December 2022.txt",
+    "finances/finance-report-2023-06.md",
+    "finances/# Finance Report - June 2023.txt",
+    "books/public-domain/franklin-ford-collection-process.md",
+    "books/public-domain/franklin-ford-collection.md",
     "books/public-domain",
     "books",
     "msp-biggert.png",
