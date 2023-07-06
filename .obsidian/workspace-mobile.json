@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finances/finance-report-2023-01.md",
-                "mode": "preview",
+                "file": "docs-docs/landing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3cbde957c66958f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs-docs/landing.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +86,8 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 0,
+    "pinned": true
   },
   "right": {
     "id": "85168e077f36b846",
@@ -85,7 +99,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "finances/finance-report-2023-01.md",
+            "file": "docs-docs/landing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "finances/finance-report-2023-01.md",
+            "file": "docs-docs/landing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +128,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "finances/finance-report-2023-01.md"
+            "file": "docs-docs/landing.md"
           }
         }
       }
@@ -132,11 +146,12 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "5e7d9de591170282",
+  "active": "b3cbde957c66958f",
   "lastOpenFiles": [
-    "finances/finance-report-2022-12.md",
-    "finances/finance-report-2023-01.md",
+    "finances/finances.md",
     "docs-docs/landing.md",
+    "finances/finance-report-2023-01.md",
+    "finances/finance-report-2022-12.md",
     "finances/# Finance Report - December 2022.txt",
     "finances/finance-report-2023-06.md",
     "finances/# Finance Report - June 2023.txt",
