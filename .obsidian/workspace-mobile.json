@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finances/finance-report-2023-06.md",
+                "file": "docs-docs/landing.md",
                 "mode": "source",
                 "source": true
               }
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "finances/finance-report-2023-06.md",
+            "file": "docs-docs/landing.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "finances/finance-report-2023-06.md",
+            "file": "docs-docs/landing.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "finances/finance-report-2023-06.md"
+            "file": "docs-docs/landing.md"
           }
         }
       }

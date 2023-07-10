@@ -25,7 +25,7 @@ date modified: 2023-07-06
 * *2023-01-07* - Adobe ($31.79) [Other Expenses -> Software]
 * *2023-01-08* - KDP ($25.15) [Other Expenses -> Author copies]
 
-### *History Of Media Studies*
+### *History of Media Studies*
 
 * *2023-01-02* - Reimbursement ($25.01) [Other Expenses -> Other Expenses (general)]
 * *2023-01-13* - Reclaim Cloud ($25.00) [Other Expenses -> Online Services]
