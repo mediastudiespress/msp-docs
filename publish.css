@@ -1209,17 +1209,3 @@ For a fun quotemark:
 }
 
 
-/* ----------------------------------- */
-/* Side logo */
-/* ----------------------------------- */
-.site-body-left-column-site-name {
-  text-align: center;
-  margin: 0 auto;
-}
-.site-body-left-column-site-name::before {
-    background: none;
-    content: url(https://jeffpooley.com/temp/msp-biggert.png);
-    display: block;
-    width: 60%;
-    margin: 0 auto;
-}
