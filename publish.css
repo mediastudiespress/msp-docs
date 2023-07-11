@@ -89,8 +89,8 @@ Minimal Styling
   --background-modifier-error-hover: #bb0000;
   --background-modifier-cover: rgba(0, 0, 0, 0.8);
   --text-accent: #610f0b;
-  --text-accent-hover: #F2CA6C;
-  --text-accent-hover-rgba: rgba(242, 202, 108, 0.8);
+  --text-accent-hover: #905754;
+  --text-accent-hover-rgba: rgba(97, 15, 11, 0.65);
   --text-accent-unresolved: rgba(0, 141, 66, 0.8);
   --text-color-external: (var(--text-accent));
   --text-color-header: #000000a6;
@@ -1209,3 +1209,16 @@ For a fun quotemark:
 }
 
 
+/* ----------------------------------- */
+/* Side logo */
+/* ----------------------------------- */
+.site-body-left-column-site-name {
+  text-align: center;
+  margin: 0 auto;
+}
+.site-body-left-column-site-name::before {
+    background: none;
+    display: block;
+    width: 60%;
+    margin: 0 auto;
+}
