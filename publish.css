@@ -948,6 +948,7 @@ iframe {
 
 a:hover {
   color: var(--text-accent-hover);
+  text-decoration: underline !important;
 }
 
 a:link {
