@@ -73,8 +73,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "85168e077f36b846",
@@ -130,13 +129,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "5e7d9de591170282",
+  "active": "a3d41bbeebdef989",
   "lastOpenFiles": [
-    "docs-docs/msp-small.png",
+    "books/public-domain/franklin-ford-collection-process.md",
     "docs-docs/landing.md",
+    "books/public-domain/franklin-ford-collection.md",
+    "author-pages",
+    "docs-docs/msp-small.png",
     "finances/finance-report-2023-01.md",
     "finances/finance-report-2023-06.md",
     "finances/---.txt",
@@ -149,8 +152,6 @@
     "finances/finance-report-2022-12.md",
     "finances/# Finance Report - December 2022.txt",
     "finances/# Finance Report - June 2023.txt",
-    "books/public-domain/franklin-ford-collection-process.md",
-    "books/public-domain/franklin-ford-collection.md",
     "books/public-domain",
     "books",
     "msp-biggert.png",
