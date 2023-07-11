@@ -949,7 +949,7 @@ iframe {
 a:hover {
   color: var(--text-accent);
   text-decoration: underline !important;
-  text-decoration-thickness: 4px;
+  text-decoration-thickness: 3px;
   text-decoration-skip-ink: none;
 }
 
