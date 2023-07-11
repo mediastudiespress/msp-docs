@@ -950,6 +950,11 @@ a:hover {
   color: var(--text-accent-hover);
 }
 
+a:link {
+  color: var(--text-accent-hover);
+  text-decoration: none !important;
+}
+
 .external-link {
   color:var(--text-accent);
   text-decoration:underline;
